@@ -1,4 +1,6 @@
-# ![Ena Pragma](https://storage.googleapis.com/msgsndr/nQTW9979qfP1LADOwzLC/media/66abeef18f484e5507641ff9.png)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/151853577?s=200&v=4" alt="Ena Pragma Logo">
+</p>
 
 # 🚀 Ena Pragma - Transform Your Business
 ### Strategic consulting for ambitious companies ready to define the future. 
@@ -19,7 +21,7 @@ Welcome to **Ena Pragma**—where innovation meets strategy! We help businesses 
 ## 🌍 Connect With Us!
 
 📸 [Instagram](https://www.instagram.com/enapragma)  
-📘 [Facebook](https://www.facebook.com/enapragma)  
+📛 [Facebook](https://www.facebook.com/enapragma)  
 💼 [LinkedIn](https://www.linkedin.com/company/enapragma/)  
 
 ---
