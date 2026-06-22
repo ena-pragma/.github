@@ -1,30 +1,23 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/151853577?s=200&v=4" alt="Ena Pragma Logo">
-</p>
+# Ena Pragma
 
-# 🚀 Ena Pragma - Transform Your Business
-### Strategic consulting for ambitious companies ready to define the future. 
+We put AI to work on the manual jobs that run mid-market operations.
 
-Welcome to **Ena Pragma**—where innovation meets strategy! We help businesses scale with cutting-edge **Growth Strategies**, **Technology Solutions**, **Operational Excellence**, and **Sales & Marketing** optimization.
+ERP, CRM, inboxes, spreadsheets, approvals, exceptions, handoffs. Most businesses run on a tangle of these. Work arrives by email, gets retyped into a system, routed by someone who has done it a thousand times, and filed somewhere only one person can find. We connect those pieces, put AI on the repetitive steps, and keep humans in the loop where judgment matters.
 
----
-
-## 🎯 Our Services
-
-🔹 **Growth Strategy** - Data-driven tactics to skyrocket your business. 🚀  
-🔹 **Technology Solutions** - Custom software and digital solutions for your unique needs. 💻  
-🔹 **Operational Excellence** - Streamlining operations for efficiency and maximum impact. ⚙️  
-🔹 **Sales & Marketing** - Aligning efforts for better conversions and ROI. 📈  
+The result is a system that runs the work. Not a dashboard. Not a demo. Not a SaaS login.
 
 ---
 
-## 🌍 Connect With Us!
+**What we build**
 
-📸 [Instagram](https://www.instagram.com/enapragma)  
-📛 [Facebook](https://www.facebook.com/enapragma)  
-💼 [LinkedIn](https://www.linkedin.com/company/enapragma/)  
+- Workflow automation wired to the systems a business already uses
+- AI that operates behind confidence gates, with human override and audit trails
+- Production systems, built, handed off, and maintained after go-live
+
+**Who we work with**
+
+Operators and owners of mid-market businesses who are done watching headcount absorb work that a machine should be doing.
 
 ---
 
-💡 **Ready to level up?**  
-Ena Pragma is your go-to partner for sustainable growth and cutting-edge digital solutions. Let's build the future together! 🚀✨
+[enapragma.co](https://enapragma.co) · [LinkedIn](https://www.linkedin.com/company/enapragma) · [X](https://x.com/enapragma)
